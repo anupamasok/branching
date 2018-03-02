@@ -1,0 +1,24 @@
+*   [33mb55f285[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmaster[m[33m)[m Merge branch 'tmp'
+[31m|[m[32m\[m  
+[31m|[m * [33m9714cd1[m[33m ([m[1;32mtmp[m[33m)[m tmp only added
+* [32m|[m   [33m91cb831[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'qa'
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m\[m   [33m7018650[m[33m ([m[1;32mqa[m[33m)[m Merge branch 'dev' into qa
+[33m|[m [35m|[m[36m\[m [32m\[m  
+[33m|[m [35m|[m * [32m|[m [33m37e9a61[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m dev only file added
+[33m|[m [35m|[m [32m|[m[32m/[m  
+[33m|[m [35m|[m * [33mb08be83[m Dev test files
+[33m|[m * [36m|[m [33m517f46d[m[33m ([m[1;31morigin/qa[m[33m)[m qa checkin 12
+[33m|[m [36m|[m[36m/[m  
+* [36m|[m [33m2c181cf[m change readme in Master
+* [36m|[m [33m87bfa08[m mater temp file added
+[36m|[m[36m/[m  
+*   [33m421b12b[m Merge branch 'qa'
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m36be87c[m QA Checkin
+[1;31m|[m * [33m29cc735[m Development test files
+* [1;32m|[m [33m505c9ed[m new master branch change
+[1;32m|[m[1;32m/[m  
+* [33m8d1bc41[m[33m ([m[1;31morigin/tmp[m[33m)[m New Files
+* [33m7d5c21f[m Initial Commit
+* [33m16f8010[m Initial commit
